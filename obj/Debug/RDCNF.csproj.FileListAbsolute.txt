@@ -1,0 +1,7 @@
+D:\Projetos\C#\Bibliotecas\RDCNF\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Bibliotecas\RDCNF\bin\Debug\rdcfn.dll
+D:\Projetos\C#\Bibliotecas\RDCNF\bin\Debug\rdcfn.pdb
+D:\Projetos\C#\Bibliotecas\RDCNF\obj\Debug\rdcfn.dll
+D:\Projetos\C#\Bibliotecas\RDCNF\obj\Debug\rdcfn.pdb
+D:\Projetos\C#\Bibliotecas\RDCNF\bin\Debug\sec.dll
+D:\Projetos\C#\Bibliotecas\RDCNF\bin\Debug\sec.pdb
